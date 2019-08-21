@@ -1,4 +1,5 @@
 # Node.js related files
+.info/
 node_modules/
 package-lock.json
 
